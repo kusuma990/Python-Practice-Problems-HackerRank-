@@ -41,8 +41,7 @@ This repository helps to:
 
 Clone the repository:
 
-- git clone 
-
+- git clone  https://github.com/kusuma990/Python-Practice-Problems-HackerRank-
 
 Open the notebook:
 
