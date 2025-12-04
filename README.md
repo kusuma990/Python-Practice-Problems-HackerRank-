@@ -13,7 +13,7 @@ Each solution is written clearly with comments for better understanding.
 - Helps beginners understand problem-solving approaches
 
 ## 📂 File Included
-📘 
+📘 Python-Practice-Problems-HackerRank-1.ipynb
 
 ## This notebook includes:
 
@@ -46,6 +46,8 @@ Clone the repository:
 
 Open the notebook:
 
+- Python-Practice-Problems-HackerRank-1.ipynb
+
 - jupyter notebook Internship_Task-1.ipynb
 - Run & explore the solutions.
 
@@ -55,6 +57,5 @@ Open the notebook:
 - Problem-wise detailed explanation
 - Additional practice sets
 
-
-If you have questions or want to connect:
-Kusuma — Data Science Student
+## Connect With Me
+Authour : Kusuma Kumari Bodduluri 🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri 💻 GitHub: https://github.com/kusuma990
