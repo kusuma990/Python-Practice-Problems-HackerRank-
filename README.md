@@ -57,4 +57,6 @@ Open the notebook:
 - Additional practice sets
 
 ## Connect With Me
-Authour : Kusuma Kumari Bodduluri 🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri 💻 GitHub: https://github.com/kusuma990
+Authour : Kusuma Kumari Bodduluri 
+🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri 
+💻 GitHub: https://github.com/kusuma990
